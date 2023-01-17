@@ -1,0 +1,16 @@
+protected $fillable = [
+        'nom',
+        'prenom',
+        'email',
+        'numero',
+        'cv',
+        'message'
+    ];
+
+
+     $table->string('nom');
+            $table->string('prenom');
+            $table->string('email');
+            $table->bigInteger('numero');
+            $table->string('cv');
+            $table->text('message');

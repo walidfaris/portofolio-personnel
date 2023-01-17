@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\admin",
+    "\\resources\\views\\admin\\template",
+    "\\resources\\views\\admin\\template\\partials"
+  ],
+  "SelectedNode": "\\resources\\views\\admin\\template\\partials\\entete.blade.php",
+  "PreviewInSolutionExplorer": false
+}

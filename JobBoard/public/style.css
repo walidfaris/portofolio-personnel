@@ -1,0 +1,155 @@
+
+
+
+html{
+  
+    margin: 0px;
+    padding: 0px;
+
+
+}
+body{
+    background-color: aliceblue;
+    margin: 0px;
+    padding:0;
+    /* background: url(img/work.jpg) no-repeat center center fixed;  */
+    background: url(https://wallpapercave.com/wp/wp4258299.jpg) no-repeat center center; 
+   
+   background-size: cover;
+
+    /*
+    height: 100%;
+    */
+    
+}
+.head{
+    text-align: center;
+}
+.card{
+margin: 10px;
+/*margin-right: 6rem;
+margin-bottom: 2rem;
+padding-right: 3rem;
+margin-left:7px;*/
+display: inline-block;
+background-color: aliceblue;
+height: 310px;
+width: 300px;
+padding: 0px;
+
+
+}
+.card-img-top{
+    height: 150px;
+    width: 250px;
+    margin-bottom: 20px ;
+    
+
+}
+.card-img-top :hover{
+    background-color: aqua;
+}
+/* footer {
+    height: 70px;
+    text-align: center;
+    background-color:antiquewhite;
+    border-top: 3px solid black; 
+    width: 100%;
+    position: absolute;
+   
+} */
+.card-title{
+    width: 100%;
+   
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: center;
+   
+    
+}
+.card-header{
+    width: 100%;
+   
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.card-body{
+ 
+    width: 100%;
+
+}
+
+.navbar-brand{
+    text-align: center;
+    /* border: 1px solid red; */
+    width: 95%;
+    color: bisque;
+   
+}
+
+.navbar{
+    display:flex;
+}
+/* .footer{
+    width: 100%;
+    margin: 0px;
+    margin-top: auto;
+    height: 140px;
+
+} */
+
+.head {
+    /* border: 2px solid red; */
+    color: bisque;
+    height: 75vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+
+}
+
+.corps{
+    height: 40vh;
+    width: 100%;
+}
+.img{
+    width:100%;
+    height:900px;
+}
+
+/* .footer {
+   
+bottom: 0;
+width: 100%;
+position: absolute;
+
+height: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+ */
+
+ footer {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    color: bisque;
+    text-align: center;
+    height: 100px;
+    margin-top:110px;
+    padding: 20px;
+ }
+
+ .row {
+    height: 80vh;
+ }
